@@ -1,4 +1,3 @@
-import myImage from '../assets/laptop.jpg';
 import AnimatedContainer from './AnimatedContainer';
 import { CgWebsite } from 'react-icons/cg';
 const About = () => {
@@ -11,7 +10,7 @@ const About = () => {
                     Sobre
                 </h2>
                 <div className="about">
-                    <img src={myImage} alt="" />
+                    <img src="images/laptop.jpg" alt="" />
                     <div className="content">
                         <h3>Sobre mim</h3>
                         <p>Sou um programador Front-End FreeLancer.  Sou autodidata, aprendi a programar sozinho porque eu gosto de programação. Então mesmo sem qualquer certificado tenho confiança nas minhas habilidades.
