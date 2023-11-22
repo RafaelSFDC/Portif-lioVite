@@ -21,7 +21,7 @@ const Projects = () => {
                             <h3>{project.title}</h3>
                             <p>{project.description}</p>
                             <div>
-                                <h4>Stack Usada</h4>
+                                <h4>Tecnologias Usadas</h4>
                                 <div className="tags">
                                     {project.tags.map((Icon, index) => (
                                         <Icon key={index} size={24} />

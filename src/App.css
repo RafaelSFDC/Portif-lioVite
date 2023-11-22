@@ -254,6 +254,8 @@ header ul li>*:hover {
   border-bottom: var(--border) solid white;
   border-radius: 0;
   font-size: clamp(1rem, 2.5vw, 2rem);
+  padding: clamp(0.5rem, 2.5vw, 2rem);
+  ;
 }
 
 .skills .skills-buttons button.active {
