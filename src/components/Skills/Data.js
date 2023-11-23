@@ -1,8 +1,20 @@
-import { SiExpo, SiMongodb, SiAppwrite, SiExpress, SiFirebase, SiVite, SiJavascript, SiTypescript, SiReactquery, SiFramer, SiRedux, SiTailwindcss } from "react-icons/si";
+import { SiExpo, SiMongodb, SiAppwrite, SiExpress, SiFirebase, SiVite, SiJavascript, SiTypescript, SiReactquery, SiFramer, SiRedux, SiTailwindcss, SiSass, SiHtml5, SiCss3 } from "react-icons/si";
 import { FaReact, FaNode } from "react-icons/fa";
 import { TbBrandNextjs } from "react-icons/tb";
 export const data = {
     Web: [
+        {
+            icon: SiHtml5,
+            text: "Html"
+        },
+        {
+            icon: SiCss3,
+            text: "Css"
+        },
+        {
+            icon: SiSass,
+            text: "Sass"
+        },
         {
             icon: SiJavascript,
             text: "JavaScript"
