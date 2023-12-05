@@ -23,4 +23,14 @@ export const projectsData = [
         visit: "https://github.com/RafaelSFDC/OpenAI",
         id: 1,
     },
+    {
+        title: "Hilink",
+        description:
+            "Uma landingpage sobre um aplicativo de viagens",
+        image: "images/3.png",
+        tags: [TbBrandNextjs, SiTailwindcss, SiTypescript],
+        source: "https://travelapp-5kb2.onrender.com/",
+        visit: "https://github.com/RafaelSFDC/travel_app",
+        id: 2,
+    },
 ];
