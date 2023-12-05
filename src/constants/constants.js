@@ -1,6 +1,8 @@
 import { SiExpo, SiMongodb, SiAppwrite, SiExpress, SiFirebase, SiVite, SiJavascript, SiTypescript, SiReactquery, SiFramer, SiRedux, SiTailwindcss, SiOpenai } from "react-icons/si";
 import { FaReact, FaNode } from "react-icons/fa";
 import { TbBrandNextjs } from "react-icons/tb";
+import { TbBrandFramerMotion } from "react-icons/tb";
+
 
 export const projectsData = [
     {
@@ -28,7 +30,7 @@ export const projectsData = [
         description:
             "Uma landingpage sobre um aplicativo de viagens",
         image: "images/3.png",
-        tags: [TbBrandNextjs, SiTailwindcss, SiTypescript],
+        tags: [TbBrandNextjs, SiTailwindcss, SiTypescript, TbBrandFramerMotion],
         source: "https://travelapp-5kb2.onrender.com/",
         visit: "https://github.com/RafaelSFDC/travel_app",
         id: 2,

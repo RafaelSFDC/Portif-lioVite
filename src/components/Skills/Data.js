@@ -1,6 +1,7 @@
-import { SiExpo, SiMongodb, SiAppwrite, SiExpress, SiFirebase, SiVite, SiJavascript, SiTypescript, SiReactquery, SiFramer, SiRedux, SiTailwindcss, SiSass, SiHtml5, SiCss3 } from "react-icons/si";
+import { SiExpo, SiMongodb, SiAppwrite, SiExpress, SiFirebase, SiVite, SiJavascript, SiTypescript, SiReactquery, SiRedux, SiTailwindcss, SiSass, SiHtml5, SiCss3 } from "react-icons/si";
 import { FaReact, FaNode } from "react-icons/fa";
-import { TbBrandNextjs } from "react-icons/tb";
+import { TbBrandNextjs, TbBrandFramerMotion } from "react-icons/tb";
+
 export const data = {
     Web: [
         {
@@ -70,7 +71,7 @@ export const data = {
             text: "React Query"
         },
         {
-            icon: SiFramer,
+            icon: TbBrandFramerMotion,
             text: "Framer Motion"
         },
         {
